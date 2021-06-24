@@ -1,0 +1,8 @@
+﻿<linker>
+    <assembly fullname="UnityEngine" preserve="all"/>
+    <assembly fullname="Assembly-CSharp" preserve="all"/>
+    <assembly fullname="DOTween" preserve="all"/>
+    <assembly fullname="LitJSON" preserve="all"/>
+    <assembly fullname="NPOI" preserve="all"/>
+    <assembly fullname="ICSharpCode.SharpZipLib" preserve="all"/>
+</linker>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Summer>
+  <ResourceCollection>
+    <Resources>
+      <Resource Name="Excel/PlayerExpResource" LoadType="0" Packed="False" />
+      <Resource Name="Excel/PropertyResource" LoadType="0" Packed="False" />
+      <Resource Name="Excel/SceneResource" LoadType="0" Packed="False" />
+      <Resource Name="MiniKing/Sound/Background/Balance_Ikson" LoadType="0" Packed="False" />
+      <Resource Name="MiniKing/Sound/Background/KeepDreaming_TopherMohr_AlexElena" LoadType="0" Packed="False" />
+      <Resource Name="MiniKing/Sound/Background/Rainbow_JayJen" LoadType="0" Packed="False" />
+      <Resource Name="Tank/Scene/Level1" LoadType="0" Packed="False" />
+      <Resource Name="Tank/Scene/LevelArt" LoadType="0" Packed="False" />
+      <Resource Name="Tank/Scene/Login" LoadType="0" Packed="False" />
+      <Resource Name="Tank/Scene/Menu" LoadType="0" Packed="False" />
+      <Resource Name="Tank/Scene/SpawnerBlue" LoadType="0" Packed="False" />
+      <Resource Name="Tank/Scene/SpawnerGold" LoadType="0" Packed="False" />
+      <Resource Name="Tank/Scene/TankBlue" LoadType="0" Packed="False" />
+      <Resource Name="Tank/Scene/TankCopy" LoadType="0" Packed="False" />
+      <Resource Name="TankMain" LoadType="0" Packed="False" />
+    </Resources>
+    <Assets>
+      <Asset Guid="0bd10e73e7175ca4faf560e4ebf8200c" ResourceName="MiniKing/Sound/Background/Rainbow_JayJen" />
+      <Asset Guid="2b209e76898458e42bde71d9086cbfe0" ResourceName="Tank/Scene/Level1" />
+      <Asset Guid="71465bd62c3604a14ad76faac3602147" ResourceName="Tank/Scene/Login" />
+      <Asset Guid="737992032ec55cd4193be82518036cdf" ResourceName="Tank/Scene/SpawnerGold" />
+      <Asset Guid="766931454b4e7774cbcb613e85858455" ResourceName="Excel/PlayerExpResource" />
+      <Asset Guid="8a5e21733381808468fa2d09af5d567f" ResourceName="MiniKing/Sound/Background/KeepDreaming_TopherMohr_AlexElena" />
+      <Asset Guid="a0847cfdf0691ab4e97c519e500a0af6" ResourceName="Excel/PropertyResource" />
+      <Asset Guid="a82a2a43c3abac74bbd339575e651622" ResourceName="Tank/Scene/TankBlue" />
+      <Asset Guid="afbcfb92a7f817748beb87c6e0218c9e" ResourceName="TankMain" />
+      <Asset Guid="b8b487eb3d1b1f74f85f4dcd45db28af" ResourceName="Tank/Scene/Menu" />
+      <Asset Guid="bb2e035f082e32f43b3c87bbf237412e" ResourceName="Tank/Scene/TankCopy" />
+      <Asset Guid="ccdb2c86b3e7a844eb3230a235e4f857" ResourceName="Excel/SceneResource" />
+      <Asset Guid="df3eb274cb46fe14f90eb0340b9502eb" ResourceName="Tank/Scene/LevelArt" />
+      <Asset Guid="ea8513841e6595741b074bdaf9bf4f23" ResourceName="Tank/Scene/SpawnerBlue" />
+      <Asset Guid="f7275b581e7ca56418c64d6d9cfb31d2" ResourceName="MiniKing/Sound/Background/Balance_Ikson" />
+    </Assets>
+  </ResourceCollection>
+</Summer>

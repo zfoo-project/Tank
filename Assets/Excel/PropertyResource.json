@@ -1,0 +1,11 @@
+
+[
+    {
+        "key" : "Scene.Menu",
+        "value" : "1"
+    },
+    {
+        "key" : "Scene.Main",
+        "value" : "2"
+    }
+]

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Summer>
+  <BuildSettings>
+    <DefaultScenes>
+      <DefaultScene Name="Assets/MiniKing Launcher.unity" />
+    </DefaultScenes>
+    <SearchScenePaths>
+      <SearchScenePath Path="Assets" />
+    </SearchScenePaths>
+  </BuildSettings>
+</Summer>

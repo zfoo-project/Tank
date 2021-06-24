@@ -1,0 +1,10 @@
+﻿{
+  "gameVersion": "0.1.0",
+  "versionInfoUrl": "http://127.0.0.1:9000/VersionInfo.json",
+  "windowsAppUrl": "http://127.0.0.1:9000",
+  "macOSAppUrl": "http://127.0.0.1:9000",
+  "iosAppUrl": "http://127.0.0.1:9000",
+  "androidAppUrl": "http://127.0.0.1:9000",
+  "gatewayUrls": ["127.0.0.1:16000", "127.0.0.1:16000"],
+  "websocketGatewayUrls": ["ws://127.0.0.1:18000/websocket", "ws://127.0.0.1:18000/websocket"]
+}

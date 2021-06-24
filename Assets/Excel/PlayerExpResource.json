@@ -1,0 +1,423 @@
+
+[
+    {
+        "playerLevel" : 1,
+        "exp"         : 10,
+        "gem"         : 0,
+        "gold"        : 500
+    },
+    {
+        "playerLevel" : 2,
+        "exp"         : 50,
+        "gem"         : 0,
+        "gold"        : 1274
+    },
+    {
+        "playerLevel" : 3,
+        "exp"         : 83,
+        "gem"         : 541,
+        "gold"        : 2202
+    },
+    {
+        "playerLevel" : 4,
+        "exp"         : 142,
+        "gem"         : 541,
+        "gold"        : 2936
+    },
+    {
+        "playerLevel" : 5,
+        "exp"         : 228,
+        "gem"         : 643,
+        "gold"        : 4060
+    },
+    {
+        "playerLevel" : 6,
+        "exp"         : 343,
+        "gem"         : 1286,
+        "gold"        : 4872
+    },
+    {
+        "playerLevel" : 7,
+        "exp"         : 486,
+        "gem"         : 1470,
+        "gold"        : 6146
+    },
+    {
+        "playerLevel" : 8,
+        "exp"         : 658,
+        "gem"         : 1470,
+        "gold"        : 7024
+    },
+    {
+        "playerLevel" : 9,
+        "exp"         : 861,
+        "gem"         : 1640,
+        "gold"        : 7488
+    },
+    {
+        "playerLevel" : 10,
+        "exp"         : 1094,
+        "gem"         : 2460,
+        "gold"        : 8424
+    },
+    {
+        "playerLevel" : 11,
+        "exp"         : 1114,
+        "gem"         : 2697,
+        "gold"        : 8883
+    },
+    {
+        "playerLevel" : 12,
+        "exp"         : 1306,
+        "gem"         : 2697,
+        "gold"        : 9870
+    },
+    {
+        "playerLevel" : 13,
+        "exp"         : 1512,
+        "gem"         : 2925,
+        "gold"        : 10350
+    },
+    {
+        "playerLevel" : 14,
+        "exp"         : 1731,
+        "gem"         : 2925,
+        "gold"        : 11385
+    },
+    {
+        "playerLevel" : 15,
+        "exp"         : 1962,
+        "gem"         : 4184,
+        "gold"        : 11858
+    },
+    {
+        "playerLevel" : 16,
+        "exp"         : 2206,
+        "gem"         : 4184,
+        "gold"        : 12936
+    },
+    {
+        "playerLevel" : 17,
+        "exp"         : 2461,
+        "gem"         : 4456,
+        "gold"        : 13428
+    },
+    {
+        "playerLevel" : 18,
+        "exp"         : 2729,
+        "gem"         : 4456,
+        "gold"        : 14547
+    },
+    {
+        "playerLevel" : 19,
+        "exp"         : 3009,
+        "gem"         : 4720,
+        "gold"        : 15041
+    },
+    {
+        "playerLevel" : 20,
+        "exp"         : 3300,
+        "gem"         : 4720,
+        "gold"        : 16198
+    },
+    {
+        "playerLevel" : 21,
+        "exp"         : 3354,
+        "gem"         : 4972,
+        "gold"        : 16702
+    },
+    {
+        "playerLevel" : 22,
+        "exp"         : 3588,
+        "gem"         : 4972,
+        "gold"        : 17895
+    },
+    {
+        "playerLevel" : 23,
+        "exp"         : 3827,
+        "gem"         : 5216,
+        "gold"        : 18405
+    },
+    {
+        "playerLevel" : 24,
+        "exp"         : 4070,
+        "gem"         : 5216,
+        "gold"        : 19632
+    },
+    {
+        "playerLevel" : 25,
+        "exp"         : 4318,
+        "gem"         : 6820,
+        "gold"        : 20144
+    },
+    {
+        "playerLevel" : 26,
+        "exp"         : 4569,
+        "gem"         : 6820,
+        "gold"        : 21403
+    },
+    {
+        "playerLevel" : 27,
+        "exp"         : 4825,
+        "gem"         : 7105,
+        "gold"        : 21930
+    },
+    {
+        "playerLevel" : 28,
+        "exp"         : 5085,
+        "gem"         : 7105,
+        "gold"        : 23220
+    },
+    {
+        "playerLevel" : 29,
+        "exp"         : 5348,
+        "gem"         : 7385,
+        "gold"        : 23742
+    },
+    {
+        "playerLevel" : 30,
+        "exp"         : 5616,
+        "gem"         : 7385,
+        "gold"        : 25061
+    },
+    {
+        "playerLevel" : 31,
+        "exp"         : 5772,
+        "gem"         : 7660,
+        "gold"        : 25593
+    },
+    {
+        "playerLevel" : 32,
+        "exp"         : 6083,
+        "gem"         : 7660,
+        "gold"        : 26940
+    },
+    {
+        "playerLevel" : 33,
+        "exp"         : 6400,
+        "gem"         : 7930,
+        "gold"        : 27500
+    },
+    {
+        "playerLevel" : 34,
+        "exp"         : 6723,
+        "gem"         : 7930,
+        "gold"        : 28875
+    },
+    {
+        "playerLevel" : 35,
+        "exp"         : 7052,
+        "gem"         : 9828,
+        "gold"        : 29421
+    },
+    {
+        "playerLevel" : 36,
+        "exp"         : 7387,
+        "gem"         : 9828,
+        "gold"        : 30822
+    },
+    {
+        "playerLevel" : 37,
+        "exp"         : 7728,
+        "gem"         : 10134,
+        "gold"        : 31372
+    },
+    {
+        "playerLevel" : 38,
+        "exp"         : 8075,
+        "gem"         : 10134,
+        "gold"        : 32798
+    },
+    {
+        "playerLevel" : 39,
+        "exp"         : 8428,
+        "gem"         : 10434,
+        "gold"        : 33373
+    },
+    {
+        "playerLevel" : 40,
+        "exp"         : 8786,
+        "gem"         : 10434,
+        "gold"        : 34824
+    },
+    {
+        "playerLevel" : 41,
+        "exp"         : 8836,
+        "gem"         : 10734,
+        "gold"        : 35400
+    },
+    {
+        "playerLevel" : 42,
+        "exp"         : 9177,
+        "gem"         : 10734,
+        "gold"        : 36875
+    },
+    {
+        "playerLevel" : 43,
+        "exp"         : 9522,
+        "gem"         : 10734,
+        "gold"        : 36875
+    },
+    {
+        "playerLevel" : 44,
+        "exp"         : 9872,
+        "gem"         : 11022,
+        "gold"        : 38948
+    },
+    {
+        "playerLevel" : 45,
+        "exp"         : 10226,
+        "gem"         : 12859,
+        "gold"        : 38948
+    },
+    {
+        "playerLevel" : 46,
+        "exp"         : 10585,
+        "gem"         : 12859,
+        "gold"        : 38948
+    },
+    {
+        "playerLevel" : 47,
+        "exp"         : 10948,
+        "gem"         : 13188,
+        "gold"        : 39520
+    },
+    {
+        "playerLevel" : 48,
+        "exp"         : 11315,
+        "gem"         : 13188,
+        "gold"        : 39520
+    },
+    {
+        "playerLevel" : 49,
+        "exp"         : 11687,
+        "gem"         : 13188,
+        "gold"        : 39520
+    },
+    {
+        "playerLevel" : 50,
+        "exp"         : 12063,
+        "gem"         : 13517,
+        "gold"        : 40092
+    },
+    {
+        "playerLevel" : 51,
+        "exp"         : 12616,
+        "gem"         : 13517,
+        "gold"        : 40092
+    },
+    {
+        "playerLevel" : 52,
+        "exp"         : 12488,
+        "gem"         : 13517,
+        "gold"        : 40092
+    },
+    {
+        "playerLevel" : 53,
+        "exp"         : 12846,
+        "gem"         : 13839,
+        "gold"        : 40638
+    },
+    {
+        "playerLevel" : 54,
+        "exp"         : 13207,
+        "gem"         : 13839,
+        "gold"        : 40638
+    },
+    {
+        "playerLevel" : 55,
+        "exp"         : 13571,
+        "gem"         : 15816,
+        "gold"        : 40638
+    },
+    {
+        "playerLevel" : 56,
+        "exp"         : 13939,
+        "gem"         : 16176,
+        "gold"        : 41184
+    },
+    {
+        "playerLevel" : 57,
+        "exp"         : 14309,
+        "gem"         : 16176,
+        "gold"        : 41184
+    },
+    {
+        "playerLevel" : 58,
+        "exp"         : 14683,
+        "gem"         : 16176,
+        "gold"        : 41184
+    },
+    {
+        "playerLevel" : 59,
+        "exp"         : 15059,
+        "gem"         : 16536,
+        "gold"        : 41730
+    },
+    {
+        "playerLevel" : 60,
+        "exp"         : 15439,
+        "gem"         : 16536,
+        "gold"        : 41730
+    },
+    {
+        "playerLevel" : 61,
+        "exp"         : 17988,
+        "gem"         : 16536,
+        "gold"        : 41730
+    },
+    {
+        "playerLevel" : 62,
+        "exp"         : 18539,
+        "gem"         : 16888,
+        "gold"        : 42224
+    },
+    {
+        "playerLevel" : 63,
+        "exp"         : 19097,
+        "gem"         : 16888,
+        "gold"        : 42224
+    },
+    {
+        "playerLevel" : 64,
+        "exp"         : 19664,
+        "gem"         : 16888,
+        "gold"        : 42224
+    },
+    {
+        "playerLevel" : 65,
+        "exp"         : 20238,
+        "gem"         : 17232,
+        "gold"        : 42744
+    },
+    {
+        "playerLevel" : 66,
+        "exp"         : 20819,
+        "gem"         : 17232,
+        "gold"        : 42744
+    },
+    {
+        "playerLevel" : 67,
+        "exp"         : 21408,
+        "gem"         : 17232,
+        "gold"        : 42744
+    },
+    {
+        "playerLevel" : 68,
+        "exp"         : 22004,
+        "gem"         : 17232,
+        "gold"        : 42744
+    },
+    {
+        "playerLevel" : 69,
+        "exp"         : 22607,
+        "gem"         : 17232,
+        "gold"        : 42744
+    },
+    {
+        "playerLevel" : 70,
+        "exp"         : 0,
+        "gem"         : 17232,
+        "gold"        : 42744
+    }
+]

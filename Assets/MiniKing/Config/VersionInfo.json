@@ -1,0 +1,13 @@
+{
+  "gameVersion": "0.2.0",
+  "forceUpdateGame": false,
+  "updatePrefixUrl": "http://192.168.168.1:9000",
+
+  
+  "updateSuffixUrl" : "/1_0_57",
+  "internalResourceVersion" : 57,
+  "versionListLength"       : 1130,
+  "versionListHashCode"     : -1821331881,
+  "versionListZipLength"    : 734,
+  "versionListZipHashCode"  : 42037620
+}

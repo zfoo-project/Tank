@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<languages>
+    <language name="English">
+        <pair key="common_ok" value="OK"/>
+        <pair key="common_delay" value="Later"/>
+        <pair key="common_update" value="Update"/>
+        <pair key="common_quit" value="Quit"/>
+        <pair key="game_name" value="The Fight of Tanks"/>
+        <pair key="language_english" value="English"/>
+        <pair key="login_title" value="Login"/>
+        <pair key="login_verify_code" value="Verify Code"/>
+        <pair key="login_phone_number" value="Phone Number"/>
+        <pair key="login_account" value="Account"/>
+        <pair key="login_password" value="Password"/>
+        <pair key="login_remember" value="Remember Me"/>
+        <pair key="login_button" value="Login"/>
+        <pair key="login_method_mobile" value="Mobile Login"/>
+        <pair key="login_method_guest" value="Guest"/>
+        <pair key="user_terms" value="User Terms"/>
+        <pair key="user_terms_description" value="登录即代表您同意用户协议"/>
+        <pair key="connection_error" value="Network connection failed."/>
+        <pair key="connection_error_notice" value="Please check your cellular or Wi-Fi connection and retry."/>
+        <pair key="connection_error_and_reconnect" value="Network connection failed and start reconnect server [{}]."/>
+        <pair key="check_version_notice" value="Checking server resource info"/>
+        <pair key="check_version_error" value="Checking server version error and start recheck [{}/10]"/>
+        <pair key="update_version_error" value="Update error and try again"/>
+        <pair key="update_version_notice" value="New Version of app detected. \n Will you update now?"/>
+        <pair key="update_force_notice" value="检查到新的游戏大版本安装包 \n 是否现在更新安装包？"/>
+        <pair key="downloading_progress_tip" value="Downloading... {}/{}, {}/{}, {}%, {}/s"/>
+        <pair key="load_progress_tip" value="Load Resource {}/{}"/>
+        <pair key="load_scene_tip" value="Load Scene {}/{}"/>
+        <pair key="tap_to_start" value="TAP TO START"/>
+        <pair key="logout_button" value="Logout"/>
+        <pair key="error_0" value="请求错误0"/>
+        <pair key="error_1" value="请求错误1"/>
+        <pair key="error_2" value="请求错误2"/>
+        <pair key="error_3" value="请求错误3"/>
+        <pair key="error_4" value="请求错误4"/>
+        <pair key="error_5" value="请求错误5"/>
+        <pair key="error_6" value="请求错误6"/>
+        <pair key="error_unknown" value="未知错误，请联系客服，我们会尽快解决"/>
+        <pair key="error_protocol_param" value="协议参数错误，请联系客服，我们会尽快解决"/>
+        <pair key="error_protocol_parse" value="无法解析，请联系客服，我们会尽快解决"/>
+        <pair key="error_account_not_exist" value="账号不存在"/>
+        <pair key="error_account_password" value="账号或密码错误"/>
+        <pair key="fail" value="请求失败"/>
+        <pair key="ok" value="请求成功"/>
+        <pair key="ok_quietly" value="请求成功，但是不会在客户端上显示提示"/>
+        <pair key="play_game" value="Start"/>
+        <pair key="rank" value="Rank"/>
+        <pair key="mission" value="Mission"/>
+        <pair key="reward" value="Reward"/>
+        <pair key="community" value="Community"/>
+        <pair key="rank_score" value="score rank"/>
+    </language>
+    
+    <language name="ChineseSimplified">
+        <pair key="common_ok" value="确定"/>
+        <pair key="common_delay" value="稍后"/>
+        <pair key="common_update" value="更新"/>
+        <pair key="common_quit" value="退出"/>
+        <pair key="game_name" value="进击的坦克"/>
+        <pair key="language_english" value="英语"/>
+        <pair key="login_title" value="登录/注册"/>
+        <pair key="login_verify_code" value="验证码"/>
+        <pair key="login_phone_number" value="手机号"/>
+        <pair key="login_account" value="账户名称"/>
+        <pair key="login_password" value="登录密码"/>
+        <pair key="login_remember" value="记住密码"/>
+        <pair key="login_button" value="登录"/>
+        <pair key="login_method_mobile" value="手机登录"/>
+        <pair key="login_method_guest" value="游客登录"/>
+        <pair key="user_terms" value="用户协议"/>
+        <pair key="user_terms_description" value="登录即代表您同意用户协议"/>
+        <pair key="connection_error" value="无法连接到网络"/>
+        <pair key="connection_error_notice" value="请检查你的网络或Wi-Fi，然后重试"/>
+        <pair key="connection_error_and_reconnect" value="无法连接到网络，开始重连 [{}]"/>
+        <pair key="check_version_notice" value="正在检查服务器版本信息"/>
+        <pair key="check_version_error" value="检查服务器版本信息失败，开始重新检查 [{}/10]"/>
+        <pair key="update_version_error" value="更新失败，请重试"/>
+        <pair key="update_version_notice" value="检测到新的版本 \n 是否更新到最新版本？"/>
+        <pair key="update_force_notice" value="检查到新的游戏大版本安装包 \n 是否现在更新安装包？"/>
+        <pair key="downloading_progress_tip" value="下载中 {}/{}, {}/{}, {}%, {}/s"/>
+        <pair key="load_progress_tip" value="加载资源 {}/{}"/>
+        <pair key="load_scene_tip" value="加载场景 {}/{}"/>
+        <pair key="tap_to_start" value="开始游戏"/>
+        <pair key="logout_button" value="注销"/>
+        <pair key="error_0" value="请求错误0"/>
+        <pair key="error_1" value="请求错误1"/>
+        <pair key="error_2" value="请求错误2"/>
+        <pair key="error_3" value="请求错误3"/>
+        <pair key="error_4" value="请求错误4"/>
+        <pair key="error_5" value="请求错误5"/>
+        <pair key="error_6" value="请求错误6"/>
+        <pair key="error_unknown" value="未知错误，请联系客服，我们会尽快解决"/>
+        <pair key="error_protocol_param" value="协议参数错误，请联系客服，我们会尽快解决"/>
+        <pair key="error_protocol_parse" value="无法解析，请联系客服，我们会尽快解决"/>
+        <pair key="error_account_not_exist" value="账号不存在"/>
+        <pair key="error_account_password" value="账号或密码错误"/>
+        <pair key="fail" value="请求失败"/>
+        <pair key="ok" value="请求成功"/>
+        <pair key="ok_quietly" value="请求成功，但是不会在客户端上显示提示"/>
+        <pair key="play_game" value="开始"/>
+        <pair key="rank" value="排行"/>
+        <pair key="mission" value="关卡"/>
+        <pair key="reward" value="奖励"/>
+        <pair key="community" value="社交"/>
+        <pair key="rank_score" value="分数榜"/>
+    </language>
+</languages>

@@ -1,0 +1,18 @@
+
+[
+    {
+        "id" : 1,
+        "sceneAsset" : "Login",
+        "backgroundMusicAsset" : "Background/Balance_Ikson.mp3"
+    },
+    {
+        "id" : 2,
+        "sceneAsset" : "Menu",
+        "backgroundMusicAsset" : "Background/KeepDreaming_TopherMohr_AlexElena.mp3"
+    },
+    {
+        "id" : 3,
+        "sceneAsset" : "Level1",
+        "backgroundMusicAsset" : null
+    }
+]
