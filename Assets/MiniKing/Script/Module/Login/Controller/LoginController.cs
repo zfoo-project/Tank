@@ -72,6 +72,15 @@ namespace MiniKing.Script.Module.Login.Controller
 
             HomeController.refreshStatusBar();
             HomeController.refreshPanelHome();
+
+            var testRequest = TestRequest.ValueOf("这是客户端给服务器发送的消息");
+            netManager.Send(testRequest);
+        }
+        
+        [PacketReceiver]
+        public void AtTestResponse(TestResponse response)
+        {
+            Log.Info(JsonUtils.object2String(response));
         }
 
         [PacketReceiver]
