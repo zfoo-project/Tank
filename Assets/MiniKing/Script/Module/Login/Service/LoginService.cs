@@ -73,15 +73,22 @@ namespace MiniKing.Script.Module.Login.Service
             {
                 var account = PlayerData.tempPairSs.key;
                 var password = PlayerData.tempPairSs.value;
+                PlayerData.loginError = false;
                 netManager.Send(LoginRequest.ValueOf(account, password));
             });
             sequence.AppendInterval(3f);
             sequence.AppendCallback(() =>
             {
-                if (!PlayerData.loginFlag)
+                if (PlayerData.loginFlag)
                 {
-                    LoginByAccount();
+                    return;
                 }
+
+                if (PlayerData.loginError)
+                {
+                    return;
+                }
+                LoginByAccount();
             });
         }
 

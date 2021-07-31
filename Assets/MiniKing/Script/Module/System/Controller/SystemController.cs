@@ -54,6 +54,11 @@ namespace MiniKing.Script.Module.System.Controller
                 procedureChangeScene.ChangeScene(SceneEnum.Login);
                 return;
             }
+            else if(i18nEnum == I18nEnum.error_account_sensitive_word)
+            {
+                PlayerData.loginError = true;
+                return;
+            }
         }
 
         [PacketReceiver]

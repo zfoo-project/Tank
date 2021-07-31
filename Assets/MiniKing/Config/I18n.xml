@@ -44,6 +44,7 @@
         <pair key="error_protocol_parse" value="无法解析，请联系客服，我们会尽快解决"/>
         <pair key="error_account_not_exist" value="账号不存在"/>
         <pair key="error_account_password" value="账号或密码错误"/>
+        <pair key="error_account_sensitive_word" value="账号含有铭感词"/>
         <pair key="fail" value="请求失败"/>
         <pair key="ok" value="请求成功"/>
         <pair key="ok_quietly" value="请求成功，但是不会在客户端上显示提示"/>
@@ -98,6 +99,7 @@
         <pair key="error_protocol_parse" value="无法解析，请联系客服，我们会尽快解决"/>
         <pair key="error_account_not_exist" value="账号不存在"/>
         <pair key="error_account_password" value="账号或密码错误"/>
+        <pair key="error_account_sensitive_word" value="账号含有铭感词"/>
         <pair key="fail" value="请求失败"/>
         <pair key="ok" value="请求成功"/>
         <pair key="ok_quietly" value="请求成功，但是不会在客户端上显示提示"/>

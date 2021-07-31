@@ -16,6 +16,7 @@ namespace MiniKing.Script.Common
         public static Pair<string, string> tempPairSs;
 
         public static bool loginFlag;
+        public static bool loginError;
         
         public static PlayerInfo playerInfo;
 
