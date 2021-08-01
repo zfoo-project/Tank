@@ -1,0 +1,10 @@
+﻿{
+  "gameVersion": "0.1.0",
+  "versionInfoUrl": "http://127.0.0.1:9000/VersionInfo.json",
+  "windowsAppUrl": "http://127.0.0.1:9000",
+  "macOSAppUrl": "http://127.0.0.1:9000",
+  "iosAppUrl": "http://127.0.0.1:9000",
+  "androidAppUrl": "http://127.0.0.1:9000",
+  "gatewayUrls": ["47.103.82.45:16000", "47.103.82.45:16000"],
+  "websocketGatewayUrls": ["ws://tank-api.zfoo.net:18000/websocket", "ws://tank-api.zfoo.net:18000/websocket"]
+}
