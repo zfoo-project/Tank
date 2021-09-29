@@ -5,6 +5,7 @@ using MiniKing.Script.Constant;
 using MiniKing.Script.Procedure.Scene;
 using MiniKing.Script.UI.Common;
 using MiniKing.Script.UI.Home;
+using MiniKing.Script.UI.Login;
 using Spring.Core;
 using Spring.Logger;
 using Spring.Util;
@@ -51,7 +52,7 @@ namespace MiniKing.Script.Module.System.Controller
             if (i18nEnum == I18nEnum.error_account_not_exist)
             {
                 settingManager.RemoveSetting(GameConstant.SETTING_LOGIN_TOKEN);
-                procedureChangeScene.ChangeScene(SceneEnum.Login);
+                LoginController.GetInstance().panelLogin.Show();
                 return;
             }
             else if(i18nEnum == I18nEnum.error_account_sensitive_word)

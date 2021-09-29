@@ -10,12 +10,14 @@ namespace CsProtocol
     {
         public PlayerInfo playerInfo;
         public int score;
+        public long time;
 
-        public static RankInfo ValueOf(PlayerInfo playerInfo, int score)
+        public static RankInfo ValueOf(PlayerInfo playerInfo, int score, long time)
         {
             var packet = new RankInfo();
             packet.playerInfo = playerInfo;
             packet.score = score;
+            packet.time = time;
             return packet;
         }
 
@@ -45,6 +47,7 @@ namespace CsProtocol
             RankInfo message = (RankInfo) packet;
             ProtocolManager.GetProtocol(400).Write(buffer, message.playerInfo);
             buffer.WriteInt(message.score);
+            buffer.WriteLong(message.time);
         }
 
         public IPacket Read(ByteBuffer buffer)
@@ -58,6 +61,8 @@ namespace CsProtocol
             packet.playerInfo = result0;
             int result1 = buffer.ReadInt();
             packet.score = result1;
+            long result2 = buffer.ReadLong();
+            packet.time = result2;
             return packet;
         }
     }

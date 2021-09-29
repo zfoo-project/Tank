@@ -2,9 +2,9 @@
 <Summer>
   <ResourceBuilder>
     <Settings>
-      <InternalResourceVersion>102</InternalResourceVersion>
+      <InternalResourceVersion>121</InternalResourceVersion>
       <Platforms>128</Platforms>
-      <ZipSelected>True</ZipSelected>
+      <ZipSelected>False</ZipSelected>
       <UncompressedAssetBundleSelected>False</UncompressedAssetBundleSelected>
       <DisableWriteTypeTreeSelected>False</DisableWriteTypeTreeSelected>
       <DeterministicAssetBundleSelected>True</DeterministicAssetBundleSelected>
@@ -16,7 +16,7 @@
       <OutputFullSelected>True</OutputFullSelected>
       <OutputPackedSelected>True</OutputPackedSelected>
       <BuildEventHandlerTypeName>Summer.Editor.ResourceBuilder.Handler.ResourceBuildEventHandler</BuildEventHandlerTypeName>
-      <OutputDirectory>C:/ZTank/AB</OutputDirectory>
+      <OutputDirectory>C:/Tank/AB</OutputDirectory>
     </Settings>
   </ResourceBuilder>
 </Summer>

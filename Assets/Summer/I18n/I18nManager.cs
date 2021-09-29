@@ -46,7 +46,7 @@ namespace Summer.I18n
             string value = GetValue(key);
             if (value == null)
             {
-                return StringUtils.Format("<NoKey>{}", key);
+                return StringUtils.EMPTY;
             }
 
             return value;
