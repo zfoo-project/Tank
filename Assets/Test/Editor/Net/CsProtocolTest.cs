@@ -13,7 +13,7 @@ namespace Test.Editor.Net
         {
             ProtocolManager.InitProtocol();
             // 获取复杂对象的字节流
-            var complexObjectBytes = File.ReadAllBytes("D:\\zfoo\\protocol\\src\\test\\resources\\ComplexObject.bytes");
+            var complexObjectBytes = File.ReadAllBytes("C:\\zfoo\\protocol\\src\\test\\resources\\ComplexObject.bytes");
             var buffer = ByteBuffer.ValueOf();
             buffer.WriteBytes(complexObjectBytes);
             var packet = ProtocolManager.Read(buffer);
