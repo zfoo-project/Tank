@@ -83,11 +83,11 @@ namespace MiniKing.Script.Procedure.Updater
 #if UNITY_EDITOR_WIN || UNITY_STANDALONE_WIN
             url = SpringContext.GetBean<ConfigComponent>().configInfo.windowsAppUrl;
 #elif UNITY_EDITOR_OSX || UNITY_STANDALONE_OSX
-            url = SpringContext.GetComponent<ConfigComponent>().configInfo.macOSAppUrl;
+            url = SpringContext.GetBean<ConfigComponent>().configInfo.macOSAppUrl;
 #elif UNITY_IOS
-            url = SpringContext.GetComponent<ConfigComponent>().configInfo.iOSAppUrl;
+            url = SpringContext.GetBean<ConfigComponent>().configInfo.iOSAppUrl;
 #elif UNITY_ANDROID
-            url = SpringContext.GetComponent<ConfigComponent>().configInfo.androidAppUrl;
+            url = SpringContext.GetBean<ConfigComponent>().configInfo.androidAppUrl;
 #endif
             if (!string.IsNullOrEmpty(url))
             {
